@@ -26,15 +26,10 @@ public class PlayerController : MonoBehaviour {
 
         // Debug.Log("Pressed left click.");
         //}
-
-            
-
         //if (Input.GetMouseButtonDown(1))
         //    Debug.Log("Pressed right click.");
 
-       
-
-
+    
         //movment of the player 
         float moveHorizontal = Input.GetAxis("Horizontal");
         float moveVertical = Input.GetAxis("Vertical");
